@@ -1,5 +1,5 @@
 node_express 功能练习
-npm install express-generator -g // Express 应用生成器
+npm install express-generator -g Express 应用生成器
 
   express -e
   启动 mongodb
